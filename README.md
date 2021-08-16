@@ -36,5 +36,5 @@ THEN I find a concise, descriptive title
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. [my repo] (https://github.com/sirwettering/sirwettering)
+* The URL of the deployed application. [my website](https://sirwettering.github.io/sirwettering/)
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. [my repository](https://github.com/sirwettering/sirwettering)

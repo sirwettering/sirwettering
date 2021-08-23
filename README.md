@@ -38,3 +38,7 @@ You are required to submit the following for review:
 
 * The URL of the deployed application. [my website](https://sirwettering.github.io/sirwettering/)
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project. [my repository](https://github.com/sirwettering/sirwettering)
+
+![website screenshot-1](https://user-images.githubusercontent.com/88121961/130437965-257952b9-cac3-44bf-aee6-0da896b864c6.png)
+![website screenshot-2](https://user-images.githubusercontent.com/88121961/130437987-760b57c0-9b37-410c-b99e-5a50698fccca.png)
+![website screenshot-3](https://user-images.githubusercontent.com/88121961/130438015-363eb078-68c8-4e86-85e7-79d52192f48d.png)
